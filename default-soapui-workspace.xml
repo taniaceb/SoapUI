@@ -2,6 +2,6 @@
 <con:soapui-workspace name="Projects" soapui-version="5.4.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
   <con:project name="Calculator">C:/Users/Tania/Documents/Calculator-soapui-project2.xml</con:project>
-  <con:project name="Calculator2">C:/Users/Tania/Documents/Calculator2-soapui-project.xml</con:project>
+  <con:project name="Calculator4">C:/Users/Tania/Documents/Calculator2-soapui-project.xml</con:project>
   <con:collectInfoForSupport>false</con:collectInfoForSupport>
 </con:soapui-workspace>
